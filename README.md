@@ -5,7 +5,7 @@
 The goal of this project is to build my own lightweight live development server.
 The main purpose is learning: understanding how file watching, HTTP servers, WebSockets, and browser synchronization work together.
 
-![Capture of my project](./cap.png)
+![Capture of my project](./environment.png)
 
 ## Demo
 
