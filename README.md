@@ -2,7 +2,7 @@
 
 **You can see the demo here:** [Video Demo ](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7480776347200622592?compact=1)
 
-# Build My Own Live Server with Hot Reload
+# Live Server with Hot Reload
 
 The goal of this project is to build my own lightweight live development server.
 The main purpose is learning: understanding how file watching, HTTP servers, WebSockets, and browser synchronization work together.
