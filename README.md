@@ -1,8 +1,8 @@
 **This project is still evolving. There are some improvements and bugs to fix, but it already provides the core functionality of serving files and automatically reloading the browser when changes are detected.**
 
-**You can see the demo here:** [Video Demo ](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7480776347200622592?compact=1)
-
 # Live Server with Hot Reload
+
+**You can see the demo here:** [Video Demo ](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7480776347200622592?compact=1)
 
 The goal of this project is to build my own lightweight live development server.
 The main purpose is learning: understanding how file watching, HTTP servers, WebSockets, and browser synchronization work together.
